@@ -15,5 +15,8 @@ public class AnimalFactory {
 		return null;
 	}
 	
+	public static Animal preduceCat() {
+		return new Cat();
+	}
 	
 }
