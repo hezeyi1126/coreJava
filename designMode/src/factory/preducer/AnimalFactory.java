@@ -15,8 +15,5 @@ public class AnimalFactory {
 		return null;
 	}
 	
-	public static void main(String[] args) {
-		AnimalFactory.preduce("dog").shout();
-		
-	}
+	
 }
