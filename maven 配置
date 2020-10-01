@@ -1,3 +1,7 @@
+ 本地仓库修改
+ <localRepository>E:/work/mvnrepos</localRepository>
+ 
+ 
 maven阿里云镜像
   
   在mirrors标签下添加
